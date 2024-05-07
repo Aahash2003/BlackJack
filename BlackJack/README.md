@@ -1,4 +1,4 @@
-# SE-3313-Project-BlackJack
+# Project-BlackJack
 
 Client:
 Before playing, install python, pip
